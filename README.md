@@ -53,7 +53,6 @@ The project includes:
 
 - **Unreal Engine 5**
 - **Blender**
-- **Photoshop / Lightroom (optional)**
 - Quixel Megascans Assets
 
 ---
