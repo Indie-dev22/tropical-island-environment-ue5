@@ -29,13 +29,6 @@ The scene includes realistic water shading, foliage placement, natural lighting,
 
 ---
 
-## 📁 Project Structure
-
-
-_(Folders depend on your local structure — adjust if needed.)_
-
----
-
 ## 🎬 Renders
 
 The project includes:
@@ -44,8 +37,6 @@ The project includes:
 - 7–8 high-resolution environment screenshots  
 - Aerial shots showcasing full island  
 - Close-up shots showing foliage & water details  
-
-> *(Note: Videos and screenshots are showcased in my portfolio.)*
 
 ---
 
